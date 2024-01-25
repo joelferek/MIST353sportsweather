@@ -48,3 +48,7 @@ NFL ticket pricers often overlook climate implications when setting ticket price
   - Aim to create a robust and user-friendly application through continuous coding improvements.
   
 The project holds the promise of becoming a valuable application for NFL ticket pricers once further development is complete.
+
+---
+
+*I used a lot of CHATGPT to help me figure out the JavaScript. The rest I used with my resources on GitHub and W3 along with what we learned in class.*
