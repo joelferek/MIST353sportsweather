@@ -51,4 +51,4 @@ The project holds the promise of becoming a valuable application for NFL ticket 
 
 ---
 
-*I used a lot of CHATGPT to help me figure out the JavaScript. The rest I used with my resources on GitHub and W3 along with what we learned in class.*
+*I used a lot of CHATGPT to help me figure out the JavaScript. The rest I used with my resources on GitHub and W3 along with what we learned in class. For most of the this, the prompt would look like: There is an error with my code can you find it for me? Then I would provide all my code.*
