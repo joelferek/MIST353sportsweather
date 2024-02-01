@@ -36,7 +36,6 @@ const teamsData = {
     "detroit": 91.89,
     "arizona": 91.34,
     "buffalo": 89.65,
-    "los angeles": 89.01,
     "cincinnati": 87.36,
     "jacksonville": 84.76
 };
