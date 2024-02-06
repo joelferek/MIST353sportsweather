@@ -43,4 +43,6 @@ The project holds the promise of becoming a valuable application for NFL ticket 
 
 ---
 
+<<<<<<< HEAD
 *I used a lot of CHATGPT to help me figure out the JavaScript. The rest I used with my resources on GitHub and W3 along with what we learned in class. For example, In the javascript that I coded, I woudl copy and paste that into chat gpt with nothing else and the system could find the problem in the code.*
+=======
