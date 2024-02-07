@@ -72,8 +72,9 @@ const avgTemp = {
     "jacksonville": 80
 }
 function goToAboutUs() {
-    window.location.href = "about-us.html";
+    window.location.href = "about-us";
 }
+
 
 function setQuery(evt) {
     if (evt.keyCode == 13) {
